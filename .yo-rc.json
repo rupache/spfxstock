@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "stockticker",
+    "libraryId": "0658ad2a-9c49-47bc-b260-ab2a09d20156",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "stockticker",
+    "solutionShortDescription": "stockticker description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
